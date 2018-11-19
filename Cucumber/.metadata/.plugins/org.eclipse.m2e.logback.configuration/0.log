@@ -1,0 +1,10 @@
+2018-05-07 13:38:01,037 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-05-07 14:24:54,843 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\Nbarnana\Desktop\Cucumber\Cucumberframework\pom.xml
+2018-05-07 14:24:57,062 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Cucumber:Cucumberframework:0.0.1-SNAPSHOT @ C:\Users\Nbarnana\Desktop\Cucumber\Cucumberframework\pom.xml.
+2018-05-07 14:24:57,718 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Cucumberframework/src/main/java
+2018-05-07 14:24:57,718 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Cucumberframework/src/test/java
+2018-05-07 14:24:59,191 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2018-05-07 14:24:59,730 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 14:24:59,730 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nbarnana\Desktop\Cucumber\Cucumberframework\src\main\resources
+2018-05-07 14:24:59,730 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-07 14:24:59,730 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Nbarnana\Desktop\Cucumber\Cucumberframework\src\test\resources
